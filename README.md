@@ -9,3 +9,5 @@ Deep Neural Networks (DNNs) have achieved promising progress in many complex tas
 2. Choose GPU as runtime type
 3. Enjoy it :)
 
+## More info
+Code is also available on GitHub link (https://github.com/HungYangChang/ECSE-541-Final-Project)
